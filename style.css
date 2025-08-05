@@ -1,0 +1,9 @@
+
+body { font-family: Arial; background: #f9f9f9; color: #333; padding: 20px; }
+h1 { color: #004080; }
+nav a { margin: 0 10px; text-decoration: none; color: #004080; }
+form input, form textarea { display: block; margin: 10px 0; padding: 8px; width: 100%; max-width: 400px; }
+form button { padding: 10px 20px; background: #004080; color: white; border: none; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+table, th, td { border: 1px solid #ccc; }
+th, td { padding: 10px; text-align: left; }
